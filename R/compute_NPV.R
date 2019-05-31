@@ -1,9 +1,10 @@
 #' compute_NPV
-#' 
-#' compute net present value
+#'
+#' compute blarfing net present value
 #' @param value/cost ($)
 #' @param time in the future that cost/value occurs (years)
-#' @param discount rate, default 0.01 
+#' @param discount rate, default 0.01
+#' @author Danny Ettelson
 #' @return value in $
 
 
